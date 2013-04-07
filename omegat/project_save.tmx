@@ -40,15 +40,24 @@
       <tuv lang="EN-US">
         <seg>&lt;html&gt;Continue  (The program may now be unstable)&lt;/html&gt;</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125028Z">
+        <seg>&lt;html&gt;Prosegui (L'applicazione potrebbe essere divenuta instabile)&lt;/html&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;html&gt;Exit without saving files&lt;/html&gt;</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125028Z">
+        <seg>&lt;html&gt;Esci senza salvare&lt;/html&gt;</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>&lt;html&gt;Save all files and exit  &lt;b&gt;(Recommended)&lt;/b&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125028Z">
+        <seg>&lt;html&gt;Salva tutti i files ed esci &lt;b&gt;(Scelta consigliata)&lt;/b&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -132,6 +141,9 @@
       <tuv lang="EN-US">
         <seg>Are you sure you want to quit LightZone?</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125010Z">
+        <seg>Si desidera veramente chiudere LightZone?</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -149,6 +161,9 @@
     <tu>
       <tuv lang="EN-US">
         <seg>Auto-save is now on.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125022Z">
+        <seg>Ora il salvataggio automatico è attivo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,10 +319,16 @@
       <tuv lang="EN-US">
         <seg>Convert...</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125015Z">
+        <seg>Esportazione...</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Converting...</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125006Z">
+        <seg>Esportazione in corso...</seg>
       </tuv>
     </tu>
     <tu>
@@ -327,15 +348,24 @@
       <tuv lang="EN-US">
         <seg>Couldn't convert $1</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125006Z">
+        <seg>Impossibile esportare $1</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't delete an older version of "$1"</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125007Z">
+        <seg>Impossibile cancellare una precedente versione di "$1"</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't find a Style named "$1"</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125000Z">
+        <seg>Impossibile trovare un Modello chiamato "$1"</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,30 +404,48 @@
       <tuv lang="EN-US">
         <seg>Couldn't interpret the file "$1" as a Style</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125001Z">
+        <seg>Impossibile interpretare il file "$1" come un Modello</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't print</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125006Z">
+        <seg>Impossibile stampare</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't rename "$1" to "$2"</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125007Z">
+        <seg>Impossibile rinominare "$1" come "$2"</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't save this Style</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125000Z">
+        <seg>Impossibile scrivere il Modello "$1" nel file "$2"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Couldn't save to $1</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125002Z">
+        <seg>Impossibile salvare su $1</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Crash reports sent to Light Crafts are anonymous except for the sender's IP address.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125029Z">
+        <seg>I rapporti di errore inviati a Light Crafts sono anonimi, eccetto per l'IP di provenienza del mittente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -456,6 +504,9 @@
       <tuv lang="EN-US">
         <seg>Do you want to search for it?</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125024Z">
+        <seg>Si desidera cercarlo?</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -469,10 +520,16 @@
       <tuv lang="EN-US">
         <seg>Don't Save</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125009Z">
+        <seg>Non salvare</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Don't ask again</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125010Z">
+        <seg>Non chiederlo di nuovo</seg>
       </tuv>
     </tu>
     <tu>
@@ -557,15 +614,24 @@
       <tuv lang="EN-US">
         <seg>Error Details</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125031Z">
+        <seg>Dettagli dell'errore</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Error applying Style "$1"</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125001Z">
+        <seg>Errore nell'applicazione del Modello "$1"</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Error initializing browser</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125015Z">
+        <seg>Errore di inizializzazione del Browser</seg>
       </tuv>
     </tu>
     <tu>
@@ -585,10 +651,16 @@
       <tuv lang="EN-US">
         <seg>Failed to restore from preferences</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125014Z">
+        <seg>Recupero delle preferenze non riuscito</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Failed to save preferences</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125014Z">
+        <seg>Salvataggio delle preferenze non riuscito</seg>
       </tuv>
     </tu>
     <tu>
@@ -609,6 +681,9 @@
     <tu>
       <tuv lang="EN-US">
         <seg>Find $1</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125026Z">
+        <seg>Trova $1</seg>
       </tuv>
     </tu>
     <tu>
@@ -673,6 +748,9 @@
       <tuv lang="EN-US">
         <seg>If you don't save, your changes will be lost.</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125008Z">
+        <seg>Se non vengono salvati, tutte le modifiche saranno perdute.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -699,6 +777,9 @@
       <tuv lang="EN-US">
         <seg>Initializing Engine Utilities</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125013Z">
+        <seg>Inizializzazione delle utilities del motore di elaborazione in corso</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -711,6 +792,9 @@
     <tu>
       <tuv lang="EN-US">
         <seg>Internal Error</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125030Z">
+        <seg>Errore interno</seg>
       </tuv>
     </tu>
     <tu>
@@ -725,6 +809,9 @@
       <tuv lang="EN-US">
         <seg>Is one of these the right image?</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125023Z">
+        <seg>Una di queste è l'immagine giusta?</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -738,6 +825,9 @@
       <tuv lang="EN-US">
         <seg>Is this right?</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125024Z">
+        <seg>E' corretto?</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -747,6 +837,9 @@
     <tu>
       <tuv lang="EN-US">
         <seg>Light Crafts embeds no personal data of any kind in these reports.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125030Z">
+        <seg>Light Crafts non inserisce alcun dato personale in questi messaggi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -801,15 +894,24 @@
       <tuv lang="EN-US">
         <seg>LightZone has encountered an internal error.</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125026Z">
+        <seg>LightZone ha incontrato un errore interno.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>LightZone has run out of memory and will now shut down.</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125027Z">
+        <seg>LightZone ha esaurito tutta la memoria e ora verrà terminato.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Loading Classes</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125013Z">
+        <seg>Caricamento delle classi in corso</seg>
       </tuv>
     </tu>
     <tu>
@@ -993,6 +1095,9 @@
       <tuv lang="EN-US">
         <seg>Open an Image</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125015Z">
+        <seg>Apri un'immagine per la modifica</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -1002,6 +1107,9 @@
     <tu>
       <tuv lang="EN-US">
         <seg>Opening...</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125013Z">
+        <seg>Apertura...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1060,20 +1168,32 @@
       <tuv lang="EN-US">
         <seg>Previewing...</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125015Z">
+        <seg>Anteprima in corso...</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Print</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125004Z">
+        <seg>Stampa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Print...</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125015Z">
+        <seg>Stampa...</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Printing...</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125005Z">
+        <seg>Stampa in corso...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1087,6 +1207,9 @@
     <tu>
       <tuv lang="EN-US">
         <seg>Quit</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125010Z">
+        <seg>Chiudi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1188,6 +1311,9 @@
       <tuv lang="EN-US">
         <seg>Restoring Preferences</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125012Z">
+        <seg>Ripristino delle preferenze in corso</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -1234,10 +1360,16 @@
       <tuv lang="EN-US">
         <seg>Save As...</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125020Z">
+        <seg>Salva come...</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Save Changes</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125019Z">
+        <seg>Salva le modifiche</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,10 +1394,16 @@
       <tuv lang="EN-US">
         <seg>Save changes to this document before closing?</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125008Z">
+        <seg>Salvare i cambiamenti a questo file prima di chiudere?</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Save without asking from now on.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125022Z">
+        <seg>D'ora in poi salva senza prima chiedere.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1280,30 +1418,48 @@
       <tuv lang="EN-US">
         <seg>Scanning $1...</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125014Z">
+        <seg>Scansione in corso di $1...</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Scanning Color Profiles</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125011Z">
+        <seg>Scansione dei profili di colore in corso</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Scanning Saved Documents</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125012Z">
+        <seg>Scansione dei files salvati in corso</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Search</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125025Z">
+        <seg>Cerca</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Select an Image</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125016Z">
+        <seg>Doppio-click su un'immagine per passare alla fase di modifica</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Send anonymous report to Light Crafts</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125029Z">
+        <seg>Invia un rapporto a Light Crafts</seg>
       </tuv>
     </tu>
     <tu>
@@ -1393,6 +1549,9 @@
       <tuv lang="EN-US">
         <seg>Starting Logging</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125012Z">
+        <seg>Avvio Logging</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -1408,10 +1567,16 @@
       <tuv lang="EN-US">
         <seg>The LightZone file, "$1" can't locate its image file, "$2", but it found "$3" instead.</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125024Z">
+        <seg>Il file di LightZone "$1" non riesce ad individuare il suo file di immagine originario, "$2", ma ha trovato "$3" invece.</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The LightZone file, "$1" can't locate its image file, "$2".</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125023Z">
+        <seg>Il file di LightZone "$1" non riesce ad individuare il suo file di immagine originario, "$2".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1510,10 +1675,16 @@
       <tuv lang="EN-US">
         <seg>Use $1</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125025Z">
+        <seg>Usa $1</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Use This</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125025Z">
+        <seg>Usa questo</seg>
       </tuv>
     </tu>
     <tu>
@@ -1628,6 +1799,9 @@
       <tuv lang="EN-US">
         <seg>Verifying Libraries</seg>
       </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125011Z">
+        <seg>Verifica delle librerie in corso</seg>
+      </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
@@ -1645,6 +1819,9 @@
     <tu>
       <tuv lang="EN-US">
         <seg>What would you like to do?</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125027Z">
+        <seg>Cosa si desidera fare?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1691,6 +1868,9 @@
     <tu>
       <tuv lang="EN-US">
         <seg>You can turn it off in the LightZone Preferences.</seg>
+      </tuv>
+      <tuv lang="IT" changeid="ktgw0316" changedate="20130407T125022Z">
+        <seg>Puoi disattivarlo tramite le Preferenze di LightZone.</seg>
       </tuv>
     </tu>
     <tu>
